@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:orange;">
+
+
+<h1 style="text-align:center; font-size:40px;">Welcome to My First Webpage!</h1>
+
+
+<p style="color:black; font-size:20px;">Please enjoy a photo of my favorite sports team winning the World Series.</p>
+
+
+<img src= "/Users/tommyprice/Desktop/Price_Project_1/thomasprice151github.io/download.jpg" width="300" height="600">
+
+<p>Visit <a href="https://www.mlb.com/giants">this link</a> to view the giants website.</p>
+
+</body>
+</html>
